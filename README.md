@@ -36,5 +36,5 @@ No additional installation is required.
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-USER/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/coconutpr/ipynb-to-txt-converter.git
+cd ipynb-to-txt-converter
